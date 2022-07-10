@@ -22,4 +22,4 @@
 
 ◦ Email: gemartin@student.42barcelona.com
 
-◦ Linkedin: https://www.linkedin.com/in/gerard-martinez-guillamon-758687234/
+◦ Linkedin: https://www.linkedin.com/in/gemartin99/
