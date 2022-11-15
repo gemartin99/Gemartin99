@@ -8,7 +8,7 @@
 
 ◦ [42cursus progress](https://github.com/gemartin99/42cursus)
 
-## ▪️ Github stats
+## ▪️ Github stats 📊
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemartin99&layout=compact&theme=dark&hide_border=true)
 
