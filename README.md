@@ -10,9 +10,9 @@
 
 ## ▪️ Github stats 📊
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemartin99&layout=compact&theme=algolia&hide_border=true)
+![gemartin GitHub stats](https://github-readme-stats.vercel.app/api?username=gemartin99&show_icons=true&theme=github_dark)
 
-![gemartin99's github stats](https://github-readme-stats.vercel.app/api?username=gemartin99&show_icons=true&hide_border=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gemartin99&layout=compact&theme=github_dark)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=gemartin99.visitor-badge)
 
